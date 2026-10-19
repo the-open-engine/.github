@@ -16,4 +16,4 @@ Website: [theopenengine.com](https://theopenengine.com/?utm_source=github&utm_me
 
 ## Community
 
-[Discord](https://discord.gg/fZyzf2Cut9) · [X](https://x.com/OpenEngineHQ) · [LinkedIn](https://www.linkedin.com/company/the-open-engine-company)
+[Discord](https://theopenengine.com/discord) · [X](https://x.com/OpenEngineHQ) · [LinkedIn](https://www.linkedin.com/company/the-open-engine-company)
