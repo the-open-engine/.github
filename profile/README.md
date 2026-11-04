@@ -1,12 +1,12 @@
 # The Open Engine
 
-We build tools for AI software development. Zeroshot and Opcore are open source. Our mission: AI should be free.
+We build zeroshot, the engine for autonomous software production, and Opcore, which checks coding agents' edits as they work. Both are open source. Our mission: AI should be free.
 
 Website: [theopenengine.com](https://theopenengine.com/?utm_source=github&utm_medium=org-profile&utm_campaign=org)
 
 ## Projects
 
-**[Zeroshot](https://github.com/the-open-engine/zeroshot)** turns a software goal into a multi-agent graph: one agent implements, independent agents review, and failures go back to a bounded repair loop. The agent that wrote the code never approves its own work. MIT licensed. Run it on your laptop, on your own server, or in Zeroshot Cloud.
+**[zeroshot](https://github.com/the-open-engine/zeroshot)** is an open-source workflow engine for coding agents. Teams turn their development and QA process into a reusable multi-agent graph, from implementation through independent code review, testing, repair and delivery. The engine enforces the graph's transitions and retry limits. MIT licensed. Run it locally, on your own infrastructure, or in zeroshot Cloud.
 
 [zeroshot.sh](https://zeroshot.sh/?utm_source=github&utm_medium=org-profile&utm_campaign=org) · [Docs](https://the-open-engine.github.io/zeroshot/)
 
@@ -16,4 +16,4 @@ Website: [theopenengine.com](https://theopenengine.com/?utm_source=github&utm_me
 
 ## Community
 
-[Discord](https://theopenengine.com/discord) · [X](https://x.com/OpenEngineHQ) · [LinkedIn](https://www.linkedin.com/company/the-open-engine-company)
+[Discord](https://theopenengine.com/discord) · [X](https://x.com/OpenEngineCo) · [LinkedIn](https://www.linkedin.com/company/the-open-engine-company)
